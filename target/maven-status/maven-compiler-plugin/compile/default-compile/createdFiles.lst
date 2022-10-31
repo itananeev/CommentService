@@ -1,0 +1,10 @@
+com\bezkoder\springjwt\services\CommentServiceImplementation.class
+com\bezkoder\springjwt\SpringBootSecurityJwtApplication.class
+com\bezkoder\springjwt\payload\ExceptionHandler.class
+com\bezkoder\springjwt\payload\ResponseWithMessage.class
+com\bezkoder\springjwt\services\CommentService.class
+com\bezkoder\springjwt\repository\CommentsRepo.class
+com\bezkoder\springjwt\payload\ResponseWithMessage$ResponseWithMessageBuilder.class
+com\bezkoder\springjwt\controllers\CommentController.class
+com\bezkoder\springjwt\models\Comment$CommentBuilder.class
+com\bezkoder\springjwt\models\Comment.class
